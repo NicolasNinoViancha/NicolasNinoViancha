@@ -6,7 +6,7 @@ From a very early age, I was passionate about mathematics and problem-solving. L
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-emilio-nino-viancha-3169a61b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/nicolas-emilio-nino-viancha-3169a61b0)
 
 ## 💻 Tech Stack:
 
